@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Header](https://github.com/s330mph/s330mph/blob/main/assets/QA banner.jpeg)
+![Header](https://github.com/s330mph/s330mph/blob/main/assets/QA_banner.jpeg)
 <!--
 **s330mph/s330mph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
