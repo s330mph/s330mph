@@ -1,6 +1,7 @@
 ## Hi there 👋
 [![Header](https://github.com/s330mph/s330mph/blob/main/assets/QA_banner.jpeg)](https://t.me/S330mph)
 ![Profile_views](https://komarev.com/ghpvc/?username=s330mph&color=blue&style=for-the-badge)
+![Postman](https://img.shields.io/badge/-Postman-000010?style=for-the-badge&logo=postman)
 <!--
 **s330mph/s330mph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
